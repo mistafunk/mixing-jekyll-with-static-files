@@ -1,4 +1,5 @@
 source: jekyll
+destination: jekyll-generated
 theme: jekyll-theme-cayman
 title: testing
 show_downloads: false
